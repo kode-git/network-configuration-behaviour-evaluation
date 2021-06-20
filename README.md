@@ -1,4 +1,4 @@
-# Network Topology Behaviour Evaluation
+# Network Configuration Behaviour Evaluation
 <p>
 	<img src="https://img.shields.io/badge/state-in progress-yellow" alt="alternatetext">
 	<img src="https://img.shields.io/badge/version-1.0%20-blue" alt="alternatetext">
